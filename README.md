@@ -60,9 +60,9 @@ Starting with 4D v21, the recommended way to install wor_Recursive (and any ogTo
 
 ---
 
-## Part of the ogTools Suite
+## ogTools Suite – Dependencies
 
-wor_Recursive is the hierarchical data pillar of the comprehensive **ogTools suite** – an integrated development ecosystem for 4D. Other key components include:
+wor_Recursive is the hierarchical data pillar of the comprehensive **ogTools suite** – an integrated development ecosystem for 4D. Dependencies:
 
 | Icon | Component | Description |
 |------|-----------|-------------|
